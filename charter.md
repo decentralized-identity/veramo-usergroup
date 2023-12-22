@@ -33,5 +33,5 @@ This group is NOT an IPR Protected group, and does not require DIF membership.
 - Within 6 months of formation, there should be a chair that is not an employee of VeramoLabs
 - [Veramo repo](https://github.com/decentralized-identitiy/veramo) conversations and issues
 - Meetings (on a regular schedule, each week time-offset to improve ability for people located in different timezones to attend)
-- Asynchronous communication via Github issues/discussions, [Discord](tktktk), [email](tktktk), etc.
-- Formal proposals about changing our process or any content we publish are managed via PRs. Procedures for approving and merging PRs are described in maintainer rules [for this repo](tktktk) and [for the veramo.org repo???](tktktk)
+- Asynchronous communication via Github issues/discussions, [Discord](https://discord.gg/ZcupzKtkyx), [email](tktktk), etc.
+- Formal proposals about changing our process or any content we publish are managed via PRs. Procedures for approving and merging PRs are described in maintainer rules [for this repo](contributing.md)
