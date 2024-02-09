@@ -5,7 +5,6 @@ This repo is the home for content that embodies the processes and focus topics f
 - Schedule
     - US time = noon pm ET Thurs bi-weekly
     - EU time = 15:00 CET Thurs bi-weekly
-
 - Meeting archive (coming soon)
 - Discord channel (coming soon)
 - Mailing list (coming soon)
