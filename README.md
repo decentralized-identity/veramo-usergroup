@@ -3,8 +3,8 @@ This repo is the home for content that embodies the processes and focus topics f
 
 - [Charter](charter.md)
 - Schedule
-  US time = noon pm ET Thurs bi-weekly
-  EU time = 15:00 CET Thurs bi-weekly
+    - US time = noon pm ET Thurs bi-weekly
+    - EU time = 15:00 CET Thurs bi-weekly
 
 - Meeting archive (coming soon)
 - Discord channel (coming soon)
