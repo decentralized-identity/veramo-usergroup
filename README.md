@@ -8,4 +8,4 @@ This repo is the home for content that embodies the processes and focus topics f
         - EU: 15:00 CET
     - [DIF shared calendar](https://calendar.google.com/calendar/u/0/embed?src=decentralized.identity@gmail.com)
 - Meeting archive (coming soon)
-- [Discord channel](https://discord.gg/G8gRZWpZka)
+- [Discord channel](https://discord.gg/sxRSJcgh6c)
