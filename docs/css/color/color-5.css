@@ -1,9 +1,9 @@
 ::selection {
-  background-color:#764ba2;
+  background-color:#083235;
   color: #fff;
 }
 ::-moz-selection {
-  background-color:#764ba2;
+  background-color:#083235;
   color: #fff;
 }
 
@@ -12,7 +12,7 @@
 .m-btn-t-theme,
 .blog-item .blog-content h4 a:hover,
 .theme-color {
-  color:#764ba2;
+  color:#083235;
 }
 
 
@@ -21,13 +21,13 @@
 .theme-after-bg:after,
 .btn-theme,
 .theme-bg {
-  background:#764ba2;
+  background:#083235;
 }
 
 .m-btn-t-theme,
 .border-theme,
 .btn-theme {
-  border-color:#764ba2;
+  border-color:#083235;
 }
 
 .tab-style-1 .nav .nav-item a.active,
@@ -39,22 +39,22 @@
 .theme-hover:hover,
 .theme-g-bg{
   background: #667eea;
-  background: -webkit-linear-gradient(to right, #764ba2, #667eea);
-  background: linear-gradient(to right, #764ba2, #667eea);
+  background: -webkit-linear-gradient(to right, #083235, #667eea);
+  background: linear-gradient(to right, #083235, #667eea);
 }
 
 
 /*Reverce*/
 .about-text li:hover i,
 .m-btn-theme:hover{
-  background: #764ba2;
-  background: -webkit-linear-gradient(to right, #667eea, #764ba2);
-  background: linear-gradient(to right, #667eea, #764ba2);
+  background: #083235;
+  background: -webkit-linear-gradient(to right, #667eea, #083235);
+  background: linear-gradient(to right, #667eea, #083235);
 }
 
 
 @media (max-width: 991px){
   .header {
-    background:#764ba2;
+    background:#083235;
   }
 }
