@@ -17,7 +17,8 @@ Mircea Nistor
 ### Agenda
 
 - Welcome and introductions
-- Intro to the group, including overview of charter
+- History of Veramo
+- Overview of charter
     - Reminder that this is an open group (not IPR-protected)
 - PR review
 - Issue Review
@@ -26,5 +27,18 @@ Mircea Nistor
 ### Attendees
 
 ### Notes
+
+* Let's build a registry for
+    * plugins built by the community
+    * projects built on top of Veramo
+    * There is a proto-registry in [the Awesome list](https://github.com/decentralized-identity/veramo/blob/next/AWESOME.md), but it needs more structure and better maintenance.
+* We need a public roadmap with
+    * features or plugins proposed
+    * things being worked on
+* Still unanswered
+    * How to work with Veramo in non-JS tech-stacks (when is the OpenAPI interface not enough?)
+* How to get in touch?
+    * VeramoLabs discord server: https://discord.gg/HEFfWxSfFv
+    * DIF discord / veramo-user-group channel: https://discord.gg/U7SVjGqgZz
 
 ## Previous Meeting...
