@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="265.000000pt" height="265.000000pt" viewBox="0 0 265.000000 265.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,265.000000) scale(0.100000,-0.100000)"
+fill="#fff" stroke="none">
+<path fill="#ffffff" d=" M cx cy
+    m r, 0
+    a r,r 0 1,0 -(r * 2),0
+    a r,r 0 1,0  (r * 2),0"  /> 
+<path d="M2097 1988 c-15 -18 -208 -216 -429 -441 l-403 -407 -369 200 c-202
+111 -370 200 -372 198 -4 -5 734 -1182 743 -1185 9 -3 867 1657 860 1663 -2 3
+-16 -10 -30 -28z"/>
+</g>
+</svg>
