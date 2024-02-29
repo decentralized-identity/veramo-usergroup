@@ -4,9 +4,25 @@
 
 ## Meeting Template
 - Agenda reminder
+- Overview of charter
+  - Reminder that this is an open group (not IPR-protected)
 - PR review
 - Issue Review
 - Additional Topics
+
+## Meeting - Thursday 29 February 2024 - (15:00 CET)
+
+### Chair
+
+Mircea Nistor
+
+### Notes
+
+* brief discussion about deploying a Veramo agent to Azure ([Azure deployment articles](https://medium.com/@rameez.saleem/deploying-veramo-on-azure-using-terraform-and-helm-part-1-a-step-by-step-guide-for-deploying-a-aaaa75d199b9))
+* [request] we need a guide for signing credentials with non-custodial wallets
+* discussed a proposal for more transparent composability of Veramo agents https://github.com/decentralized-identity/veramo/discussions/1354
+* merged the [Awesome.md](https://github.com/decentralized-identity/veramo/blob/next/AWESOME.md) update that mentiones the Spherity ARIES RFC implementations.
+* brief update about the work happening on the SD-JWT front. The different camps have merged! 🚀 👏
 
 ## Meeting - Thursday 22 February 2024 - (18:00 CET)
 
@@ -17,8 +33,6 @@ Nick Reynolds
 ### Agenda
 
 - Welcome and introductions
-- Overview of charter
-    - Reminder that this is an open group (not IPR-protected)
 - PR review
 - Issue Review
 - Additional Topics
@@ -28,6 +42,7 @@ Nick Reynolds
 ### Notes
 
 * Discussed some of the open PRs
+* Discussed ARIES RFC implementations
 
 ## Meeting - Thursday 15 February 2024 - (15:00 CET)
 
