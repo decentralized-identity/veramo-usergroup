@@ -4,8 +4,8 @@ This repo is the home for content that embodies the processes and focus topics f
 - [Charter](charter.md)
 - Schedule
     - Meetings are on Thursday at alternating times (for US and EU-friendly time zones)
-        - US: 12:00 ET (noon)
-        - EU: 15:00 CET
+        - US: 12:00 ET (noon) - [add to calendar](https://calendar.google.com/calendar/u/1?cid=NjBlZGM4NTVkYTRlNWIwMjU1YmNiNGYxY2NjYWJkNTE2NDRmMmExYzExMGRiOTNiZjU2NzI0MDcxOTAzNWQxNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+        - EU: 15:00 CET [add to calendar](https://calendar.google.com/calendar/u/1?cid=NjBlZGM4NTVkYTRlNWIwMjU1YmNiNGYxY2NjYWJkNTE2NDRmMmExYzExMGRiOTNiZjU2NzI0MDcxOTAzNWQxNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
     - [DIF shared calendar](https://calendar.google.com/calendar/u/0/embed?src=decentralized.identity@gmail.com)
 - Meeting archive (coming soon)
 - [Discord channel](https://discord.gg/sxRSJcgh6c)
