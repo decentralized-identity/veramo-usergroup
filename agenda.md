@@ -10,6 +10,28 @@
 - Issue Review
 - Additional Topics
 
+## Meeting - Thursday 11 July 2024 - (18:00 CET)
+
+### Chair
+
+Nick Reynolds
+
+### Notes
+
+We covered several topics:
+* [a PR](https://github.com/decentralized-identity/veramo/pull/1401) that removes the isomorphic-webcrypto dependency from our did-comm package
+* referenced [an unrelated PR](https://github.com/MetaMask/core/pull/3645) that has a very well documented description of CJS/ESM/node/typescript compatibility issues; potentially useful to folks that are running into issues with bundlers
+* a potential solution to an [issue that was reported in ethr-did-resolver](https://github.com/decentralized-identity/ethr-did-resolver/issues/186) by building it using [ts-bridge](https://ts-bridge.dev/) 
+* an issue with TypeORM in code built for production environments
+* a proposal to refactor the data-store APIs basing them on simple key-value stores
+* a proposal to make the [@veramo/utils#computeEntryHash](https://github.com/decentralized-identity/veramo/blob/02f200855c61237e724222f3430d20d3e0a878c4/packages/utils/src/credential-utils.ts#L86) method optional, or replaceable, so that folks can avoid problematic dependencies that are needed since veramo 6.0 to compute the CID of credentials for the internal database.
+
+---
+
+no notes taken in between. See [recording list](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=32419210)
+
+---
+
 ## Meeting - Thursday 29 February 2024 - (15:00 CET)
 
 ### Chair
